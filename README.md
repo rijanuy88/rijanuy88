@@ -55,7 +55,8 @@ I'm Janna Rizza Wong a Front End Web Developer graduating student from Ateneo de
 <br />
 
 #### Buzz
-- 📎 [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- 📎 [My Resume/CV](#addlink)
+<!-- - 📎 [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
 - 📧 janrswong+connect@gmail.com
 
 
