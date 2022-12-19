@@ -196,15 +196,13 @@ YAML       2 mins          >------------------------   05.27 %
 <!--END_SECTION:waka-->
 
 #### Github Stats
-![Janna's GitHub stats](https://mellifluous-youtiao-c00d6a.netlify.app/api?username=rijanuy88&show_icons=true&theme=tokyonight&hide=contribs,prs)
+![Janna's GitHub stats](https://github-readme-stats-rijanuy88.vercel.app/api?username=rijanuy88&show_icons=true&theme=tokyonight&hide=contribs,prs)
 
-<!-- ![Janna's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijanuy88&show_icons=true&theme=tokyonight&hide=contribs,prs) -->
+[![Top Langs](https://github-readme-stats-rijanuy88.vercel.app/api/top-langs/?username=rijanuy88&layout=compact&theme=tokyonight&hide=contribs,prs)](https://github.com/rijanuy88)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijanuy88&layout=compact&theme=tokyonight&hide=contribs,prs)](https://github.com/rijanuy88)
+[![Top Langs](https://github-readme-stats-rijanuy88.vercel.app/api/top-langs/?username=rijanuy88&langs_count=8&theme=tokyonight&hide=contribs,prs)](https://github.com/rijanuy88)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijanuy88&langs_count=8&theme=tokyonight&hide=contribs,prs)](https://github.com/rijanuy88)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rijanuy88&repo=addu-blue-vote&theme=tokyonight&hide=contribs,prs)](https://github.com/rijanuy88/addu-blue-vote)
+[![Readme Card](https://github-readme-stats-rijanuy88.vercel.app/api/pin/?username=rijanuy88&repo=addu-blue-vote&theme=tokyonight&hide=contribs,prs)](https://github.com/rijanuy88/addu-blue-vote)
 
 </details>
 
