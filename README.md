@@ -186,7 +186,9 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 <!--END_SECTION:waka-->
 
 #### Github Stats
-![Janna's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijanuy88&show_icons=true&theme=tokyonight&hide=contribs,prs)
+![Janna's GitHub stats](https://mellifluous-youtiao-c00d6a.netlify.app/api?username=rijanuy88&show_icons=true&theme=tokyonight&hide=contribs,prs)
+
+<!-- ![Janna's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijanuy88&show_icons=true&theme=tokyonight&hide=contribs,prs) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijanuy88&layout=compact&theme=tokyonight&hide=contribs,prs)](https://github.com/rijanuy88)
 
