@@ -5,8 +5,7 @@
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=rijanuy88&theme=tokyonight&mode=weekly&fire=F7523F)](https://git.io/streak-stats) -->
 
-<h3> I'm Janna Rizza Wong a Front End Web Developer graduating student from Ateneo de Davao University. I Spend most of time programming outstanding projects or learning new technologies. </h3>
-<!-- Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com/coderone) -->
+<h3> I'm Janna Rizza Wong a Front End Web Developer graduating student from Ateneo de Davao University. I Spend most of time programming outstanding projects or learning new technologies. I'm still working on to becoming a Full Stack Web Developer. </h3>
 
 :mailbox: Reach me out!
 <!-- variables -->
@@ -15,7 +14,10 @@
 [insta]: https://instagram.com/jrsw2000
 [gmail]: mailto:janrswong+connect@gmail.com
 
-[![Twitter Badge](https://img.shields.io/badge/-@jannarizza-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jannarizza)][twitter] [![Linkedin Badge](https://img.shields.io/badge/-janrswong-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin] [![Mail Badge](https://img.shields.io/badge/-@jrsw2000-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][insta] [![Mail Badge](https://img.shields.io/badge/-janrswong+connect-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][gmail]
+#### Connect with me: 
+ [<img align="center" width="20%" max-height="50%" src="https://visitor-badge.glitch.me/badge?page_id=rijanuy88">](https://visitor-badge.glitch.me/badge?page_id=rijanuy88) [<img align="center" width="30%" max-height="50%" src="https://img.shields.io/badge/-@jannarizza-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jannarizza">][twitter] [<img align="center" width="30%" max-height="50%" src="https://img.shields.io/badge/-janrswong-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white">][linkedin] [<img align="center" width="30%" max-height="50%" src="https://img.shields.io/badge/-@jrsw2000-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white">][insta] [<img align="center" width="40%" max-height="50%"  src="https://img.shields.io/badge/-janrswong+connect-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white">][gmail]
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=rijanuy88) [![Twitter Badge](https://img.shields.io/badge/-@jannarizza-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jannarizza)][twitter] [![Linkedin Badge](https://img.shields.io/badge/-janrswong-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin] [![Mail Badge](https://img.shields.io/badge/-@jrsw2000-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][insta] [![Mail Badge](https://img.shields.io/badge/-janrswong+connect-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][gmail]
 
 
 [<img align="right" width="50%" src="https://github-readme-stats-rijanuy88.vercel.app/api?username=rijanuy88&show_icons=true&theme=tokyonight&hide=contribs,prs">](https://github-readme-stats-rijanuy88.vercel.app/api?username=rijanuy88&show_icons=true&theme=tokyonight&hide=contribs,prs)
@@ -74,12 +76,6 @@
 - 📎 [My Resume/CV](#addlink)
 <!-- - 📎 [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
 - 📧 janrswong+connect@gmail.com
-
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rijanuy88)
-
 <!-- more technologies -->
 <details> 
   <summary><h2>🛠️ My Tested Tools & Technologies</h2></summary>
@@ -268,14 +264,6 @@
 <details>
 <summary><h2>👾 More stuff about me</h2></summary>
 
-<!-- <br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world. -->
-
 #### Coding Stats
 
 <!--START_SECTION:waka-->
@@ -288,12 +276,14 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 
 NOTE: Top Languages does not indicate my skill level or anything like that. It is just a metric of which languages have been on my Github based on the usage across repositories. There are others which I haven't put up on GitHub and are not public.
 
+<h2>♟ Repositories </h2>
+
 [![Readme Card](https://github-readme-stats-rijanuy88.vercel.app/api/pin/?username=rijanuy88&repo=addu-blue-vote&hide_border=true&theme=tokyonight&hide=contribs,prs)](https://github.com/rijanuy88/addu-blue-vote)
 
 </details>
 
 
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
+[reactplaylist]: #
+[vscodetutorial]: #
+[htmltutorial]: #
+[javascripttutorial]: #
