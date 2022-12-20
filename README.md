@@ -267,6 +267,16 @@
 <h2>📈 Coding Stats </h2>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 18 December 2022 - To: 19 December 2022
+
+Total Time: 52 mins
+
+Markdown   49 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   94.73 %
+YAML       2 mins          >------------------------   05.27 %
+```
+
 <!--END_SECTION:waka-->
 
 <h2>⌨ Github Stats</h2>
