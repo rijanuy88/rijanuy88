@@ -92,7 +92,6 @@
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-FF0000.svg?logo=keras&logoColor=white"></a>
     <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white"></a>
     <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"></a>
-    <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"></a>
   </p>
 
   <h3> 📝 Blog </h3>
