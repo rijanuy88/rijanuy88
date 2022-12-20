@@ -1,7 +1,7 @@
 <!-- TODO: add resume pdf, change img.shields. links to projects and sites  -->
 ## Hi I'm Janna <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-[<img align="center" width="50%" src="https://streak-stats.demolab.com?user=rijanuy88&theme=tokyonight&mode=weekly&fire=F7523F">](https://streak-stats.demolab.com?user=rijanuy88&theme=tokyonight&mode=weekly&fire=F7523F)
+[<img align="center" width="100%" src="https://streak-stats.demolab.com?user=rijanuy88&theme=tokyonight&mode=weekly&fire=F7523F">](https://streak-stats.demolab.com?user=rijanuy88&theme=tokyonight&mode=weekly&fire=F7523F)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=rijanuy88&theme=tokyonight&mode=weekly&fire=F7523F)](https://git.io/streak-stats) -->
 
