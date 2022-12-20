@@ -1,12 +1,5 @@
 <!-- TODO: add resume pdf, links to projects and sites  -->
 ## Hi I'm Janna <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-
-[<img align="center" width="100%" src="https://streak-stats.demolab.com?user=rijanuy88&theme=tokyonight&mode=weekly&fire=F7523F">](https://streak-stats.demolab.com?user=rijanuy88&theme=tokyonight&mode=weekly&fire=F7523F)
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=rijanuy88&theme=tokyonight&mode=weekly&fire=F7523F)](https://git.io/streak-stats) -->
-
-<h3> I'm Janna Rizza Wong a Front End Web Developer graduating student from Ateneo de Davao University. I Spend most of time programming outstanding projects or learning new technologies. I'm still working on to becoming a Full Stack Web Developer. </h3>
-
 :mailbox: Reach me out!
 <!-- variables -->
 [twitter]: https://twitter.com/jannarizza
@@ -14,10 +7,17 @@
 [insta]: https://instagram.com/jrsw2000
 [gmail]: mailto:janrswong+connect@gmail.com
 
-#### Connect with me: 
- [<img align="center" width="20%" max-height="50%" src="https://visitor-badge.glitch.me/badge?page_id=rijanuy88">](https://visitor-badge.glitch.me/badge?page_id=rijanuy88) [<img align="center" width="30%" max-height="50%" src="https://img.shields.io/badge/-@jannarizza-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jannarizza">][twitter] [<img align="center" width="30%" max-height="50%" src="https://img.shields.io/badge/-janrswong-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white">][linkedin] [<img align="center" width="30%" max-height="50%" src="https://img.shields.io/badge/-@jrsw2000-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white">][insta] [<img align="center" width="40%" max-height="50%"  src="https://img.shields.io/badge/-janrswong+connect-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white">][gmail]
+ <!-- [<img align="center" width="20%" max-height="50%" src="https://visitor-badge.glitch.me/badge?page_id=rijanuy88">](https://visitor-badge.glitch.me/badge?page_id=rijanuy88) [<img align="center" width="30%" max-height="50%" src="https://img.shields.io/badge/-@jannarizza-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jannarizza">][twitter] [<img align="center" width="30%" max-height="50%" src="https://img.shields.io/badge/-janrswong-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white">][linkedin] [<img align="center" width="30%" max-height="50%" src="https://img.shields.io/badge/-@jrsw2000-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white">][insta] [<img align="center" width="40%" max-height="50%"  src="https://img.shields.io/badge/-janrswong+connect-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white">][gmail] -->
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rijanuy88) [![Twitter Badge](https://img.shields.io/badge/-@jannarizza-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jannarizza)][twitter] [![Linkedin Badge](https://img.shields.io/badge/-janrswong-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin] [![Mail Badge](https://img.shields.io/badge/-@jrsw2000-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][insta] [![Mail Badge](https://img.shields.io/badge/-janrswong+connect-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][gmail]
+
+[<img align="center" width="100%" src="https://streak-stats.demolab.com?user=rijanuy88&theme=tokyonight&mode=weekly&fire=F7523F">](https://streak-stats.demolab.com?user=rijanuy88&theme=tokyonight&mode=weekly&fire=F7523F)
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=rijanuy88&theme=tokyonight&mode=weekly&fire=F7523F)](https://git.io/streak-stats) -->
+<h2> Connect with me: </h2>
+
+<h3> I'm Janna Rizza Wong a Front End Web Developer graduating student from Ateneo de Davao University. I Spend most of time programming outstanding projects or learning new technologies. I'm still working on to becoming a Full Stack Web Developer. </h3>
+
 
 
 [<img align="right" width="50%" src="https://github-readme-stats-rijanuy88.vercel.app/api?username=rijanuy88&show_icons=true&theme=tokyonight&hide=contribs,prs">](https://github-readme-stats-rijanuy88.vercel.app/api?username=rijanuy88&show_icons=true&theme=tokyonight&hide=contribs,prs)
