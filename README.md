@@ -1,18 +1,24 @@
 <!-- TODO: add resume pdf, change img.shields. links to projects and sites  -->
 ## Hi I'm Janna <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rijanuy88&theme=tokyonight&mode=weekly&fire=F7523F)](https://git.io/streak-stats)
+
 I'm Janna Rizza Wong a Front End Web Developer graduating student from Ateneo de Davao University. I Spend most of time programming outstanding projects or learning new technologies.
 <!-- Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com/coderone) -->
 
 :mailbox: Reach me out!
+<!-- variables -->
+[twitter]: https://twitter.com/jannarizza
+[linkedin]: https://www.linkedin.com/in/janna-wong-903905221/ 
+[insta]: https://instagram.com/jrsw2000
+[gmail]: mailto:janrswong+connect@gmail.com
 
-[![Twitter Badge](https://img.shields.io/badge/-@jannarizza-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jannarizza)](https://twitter.com/jannarizza) [![Linkedin Badge](https://img.shields.io/badge/-janrswong-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janna-wong-903905221/) [![Mail Badge](https://img.shields.io/badge/-@jrsw2000-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/jrsw2000) [![Mail Badge](https://img.shields.io/badge/-janrswong+connect-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:janrswong+connect@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@jannarizza-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jannarizza)][twitter] [![Linkedin Badge](https://img.shields.io/badge/-janrswong-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin] [![Mail Badge](https://img.shields.io/badge/-@jrsw2000-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][insta] [![Mail Badge](https://img.shields.io/badge/-janrswong+connect-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][gmail]
 
-<!-- [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) -->
 
-<!-- TODO: Add last video link -->
+[<img align="right" width="50%" src="https://github-readme-stats-rijanuy88.vercel.app/api?username=rijanuy88&show_icons=true&theme=tokyonight&hide=contribs,prs">](https://github-readme-stats-rijanuy88.vercel.app/api?username=rijanuy88&show_icons=true&theme=tokyonight&hide=contribs,prs)
 
-- 🔭 I’m currently looking for work
+- 🔭 I’m currently looking for Remote work
 - :computer: Most used line of code `git commit -m "Init"`
 - 🌱 I'm currently learning **Django, Next.Js and Python** 
 - 📫 How to reach me: janrswong+connect@gmail.com.
@@ -23,7 +29,8 @@ I'm Janna Rizza Wong a Front End Web Developer graduating student from Ateneo de
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#addlinkhere)[![Next Badge](https://img.shields.io/badge/-Next.Js-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#addlinkhere) [![Next Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](#)[![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#)
+
 
 ### Personal Projects
 
@@ -64,8 +71,9 @@ I'm Janna Rizza Wong a Front End Web Developer graduating student from Ateneo de
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rijanuy88)
 
+<!-- more technologies -->
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2>🛠️ My Tested Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -168,9 +176,7 @@ I'm Janna Rizza Wong a Front End Web Developer graduating student from Ateneo de
 
 
 <details>
-<summary>
-  More stuff about me
-</summary>
+<summary><h2>👾 More stuff about me</h2></summary>
 
 <!-- <br >
 
@@ -183,16 +189,6 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-
-```text
-From: 18 December 2022 - To: 19 December 2022
-
-Total Time: 52 mins
-
-Markdown   49 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   94.73 %
-YAML       2 mins          >------------------------   05.27 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Github Stats
@@ -202,7 +198,11 @@ YAML       2 mins          >------------------------   05.27 %
 
 [![Top Langs](https://github-readme-stats-rijanuy88.vercel.app/api/top-langs/?username=rijanuy88&langs_count=8&theme=tokyonight&hide=contribs,prs)](https://github.com/rijanuy88)
 
-[![Readme Card](https://github-readme-stats-rijanuy88.vercel.app/api/pin/?username=rijanuy88&repo=addu-blue-vote&theme=tokyonight&hide=contribs,prs)](https://github.com/rijanuy88/addu-blue-vote)
+NOTE: Top Languages does not indicate my skill level or anything like that. It is just a metric of which languages have been on my Github based on the usage across repositories. There are others which I haven't put up on GitHub and are not public.
+
+[![Readme Card](https://github-readme-stats-rijanuy88.vercel.app/api/pin/?username=rijanuy88&repo=addu-blue-vote&hide_border=true&theme=tokyonight&hide=contribs,prs)](https://github.com/rijanuy88/addu-blue-vote)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rijanuy88&theme=tokyonight&hide_border=true&mode=weekly&fire=F7523F)](https://git.io/streak-stats)
 
 </details>
 
