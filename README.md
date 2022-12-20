@@ -38,7 +38,7 @@
 [django]:https://www.djangoproject.com/
 [python]:https://www.python.org/
 
-[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)][react] [![Next Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)][next] [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)][js] [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)][typescript] [![Nodejs Badge](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white)][node] [![Django Badge](https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=green)][django] [![Python Badge](https://img.shields.io/badge/Python-FFD43B.svg?logo=python&logoColor=blue)][python]
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)][react] [![Next Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)][next] [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)][js] [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)][typescript] [![Nodejs Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)][node] [![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)][django] [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)][python]
 
 
 ### Personal Projects
