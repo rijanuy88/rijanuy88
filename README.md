@@ -264,12 +264,13 @@
 <details>
 <summary><h2>👾 More stuff about me</h2></summary>
 
-#### Coding Stats
+<h2>📈 Coding Stats </h2>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-#### Github Stats
+<h2>⌨ Github Stats</h2>
+
 [![Top Langs](https://github-readme-stats-rijanuy88.vercel.app/api/top-langs/?username=rijanuy88&layout=compact&theme=tokyonight&hide=contribs,prs)](https://github.com/rijanuy88)
 
 [![Top Langs](https://github-readme-stats-rijanuy88.vercel.app/api/top-langs/?username=rijanuy88&langs_count=8&theme=tokyonight&hide=contribs,prs)](https://github.com/rijanuy88)
