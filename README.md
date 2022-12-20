@@ -73,7 +73,7 @@
 <br />
 
 #### Buzz
-- 📎 [My Resume/CV](#addlink)
+- 📎 [My Resume/CV](https://github.com/rijanuy88/rijanuy88/blob/main/WONG-RESUME.pdf)
 <!-- - 📎 [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
 - 📧 janrswong+connect@gmail.com
 <!-- more technologies -->
