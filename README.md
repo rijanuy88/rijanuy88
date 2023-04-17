@@ -272,12 +272,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python     1 hr 14 mins    ██████████████▒░░░░░░░░░░   57.81 %
-Markdown   47 mins         █████████▒░░░░░░░░░░░░░░░   36.87 %
-Text       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-HTML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-RPMSpec    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
