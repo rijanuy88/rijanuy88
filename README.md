@@ -273,7 +273,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   3 mins          █████████████████████████   100.00 %
+Python   3 mins          ████████████████████████▓   98.56 %
+HTML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
