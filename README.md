@@ -273,9 +273,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   46 mins         ██████████▒░░░░░░░░░░░░░░   41.51 %
-CSS          41 mins         █████████▒░░░░░░░░░░░░░░░   37.22 %
-HTML         23 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
