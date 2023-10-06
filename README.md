@@ -273,9 +273,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Text         15 mins         ███████████████████████▓░   95.28 %
-Git Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
