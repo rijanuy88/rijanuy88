@@ -273,10 +273,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   13 mins         ██████████████▒░░░░░░░░░░   56.84 %
-Markdown     7 mins          ████████░░░░░░░░░░░░░░░░░   32.44 %
-Bash         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
