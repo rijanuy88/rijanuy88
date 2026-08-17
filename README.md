@@ -7,7 +7,6 @@
 I design and build reliable AI-powered workflows, integrations, internal platforms, and operational systems that help teams move faster without sacrificing structure, documentation, or maintainability.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-janrswong.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://janrswong.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Janna%20Wong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janna-wong-903905221/)
 [![Email](https://img.shields.io/badge/Email-Professional%20Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janrswong+inquiry@gmail.com)
 
 </div>
